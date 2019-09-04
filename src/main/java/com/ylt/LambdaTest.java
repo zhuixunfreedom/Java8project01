@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.Comparator;
 
-//测试git提交的方法
+//测试git提交的注释
 //第二行
 public class LambdaTest {
     @Test
