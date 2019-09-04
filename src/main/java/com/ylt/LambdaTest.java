@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import java.util.Comparator;
 
+//测试git提交的方法
+//第二行
 public class LambdaTest {
     @Test
     public void Test01(){
